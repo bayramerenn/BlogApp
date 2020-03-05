@@ -1,0 +1,38 @@
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.deps.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.csprojAssemblyReference.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.deps.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.deps.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.csprojAssemblyReference.cache
+F:\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.deps.json
+F:\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+F:\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+F:\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.csprojAssemblyReference.cache
+F:\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfoInputs.cache
+F:\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfo.cs
+F:\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.dll
+F:\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.deps.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.pdb

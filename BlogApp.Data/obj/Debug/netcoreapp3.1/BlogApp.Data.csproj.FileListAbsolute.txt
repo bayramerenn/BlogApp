@@ -1,0 +1,55 @@
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.deps.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfo.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CopyComplete
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.deps.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfo.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CopyComplete
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.deps.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CopyComplete
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.pdb
+F:\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.deps.json
+F:\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+F:\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+F:\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+F:\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+F:\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csprojAssemblyReference.cache
+F:\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfoInputs.cache
+F:\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfo.cs
+F:\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CopyComplete
+F:\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.dll
+F:\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.deps.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CopyComplete
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.pdb

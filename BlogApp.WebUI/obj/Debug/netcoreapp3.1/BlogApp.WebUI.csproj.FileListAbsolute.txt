@@ -1,0 +1,787 @@
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.exe
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.deps.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.dev.json
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-bundle.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NUglify.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfo.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.input.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.output.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorCoreGenerate.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csproj.CopyComplete
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.xml
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csprojAssemblyReference.cache
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\source\repos\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.exe
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.deps.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.dev.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-bundle.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NUglify.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csprojAssemblyReference.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfo.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.input.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.output.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorCoreGenerate.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csproj.CopyComplete
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.xml
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.exe
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.deps.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.dev.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-bundle.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NUglify.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csprojAssemblyReference.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.input.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.output.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorCoreGenerate.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csproj.CopyComplete
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.xml
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\AddOrUpdate.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddOrUpdate.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\AddOrUpdate.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddOrUpdate.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\bayra\OneDrive\Masaüstü\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.exe
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.deps.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.dev.json
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-bundle.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NUglify.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+F:\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csprojAssemblyReference.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfoInputs.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfo.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.input.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.output.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorCoreGenerate.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\AddOrUpdate.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddOrUpdate.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csproj.CopyComplete
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.Manifest.cache
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.xml
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchBox.cshtml.g.cs
+F:\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.exe
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.deps.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.runtimeconfig.dev.json
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-bundle.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\NUglify.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csprojAssemblyReference.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.AssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.input.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.TagHelpers.output.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorCoreGenerate.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\AddOrUpdate.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddOrUpdate.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchBox.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.Views.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.csproj.CopyComplete
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\BlogApp.WebUI.StaticWebAssets.xml
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.dll
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\BlogApp.WebUI.pdb
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
