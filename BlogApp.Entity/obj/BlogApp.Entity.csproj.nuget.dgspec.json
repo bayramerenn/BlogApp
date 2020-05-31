@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {}
+    "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
+    "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj",
         "projectName": "BlogApp.Entity",
-        "projectPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj",
-        "packagesPath": "C:\\Users\\Bayram EREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bayram EREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

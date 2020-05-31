@@ -53,3 +53,15 @@ C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.
 C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CopyComplete
 C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.dll
 C:\Users\Bayram EREN\Desktop\BlogApp\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.deps.json
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Data.pdb
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.AssemblyInfo.cs
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.csproj.CopyComplete
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.dll
+C:\Users\Hp\Source\Repos\bayramerenn\BlogApp\BlogApp.Data\obj\Debug\netcoreapp3.1\BlogApp.Data.pdb

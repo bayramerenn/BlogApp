@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.WebUI\\BlogApp.WebUI.csproj": {}
+    "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.WebUI\\BlogApp.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj": {
+    "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj",
         "projectName": "BlogApp.Data",
-        "projectPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj",
-        "packagesPath": "C:\\Users\\Bayram EREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Data\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bayram EREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
-                "projectPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj"
+              "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj"
               }
             }
           }
@@ -69,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
+    "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj",
         "projectName": "BlogApp.Entity",
-        "projectPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj",
-        "packagesPath": "C:\\Users\\Bayram EREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bayram EREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,24 +130,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.WebUI\\BlogApp.WebUI.csproj": {
+    "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.WebUI\\BlogApp.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.WebUI\\BlogApp.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.WebUI\\BlogApp.WebUI.csproj",
         "projectName": "BlogApp.WebUI",
-        "projectPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.WebUI\\BlogApp.WebUI.csproj",
-        "packagesPath": "C:\\Users\\Bayram EREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.WebUI\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.WebUI\\BlogApp.WebUI.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bayram EREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,11 +160,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj": {
-                "projectPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj"
+              "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Data\\BlogApp.Data.csproj"
               },
-              "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
-                "projectPath": "C:\\Users\\Bayram EREN\\Desktop\\BlogApp\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj"
+              "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Source\\Repos\\bayramerenn\\BlogApp\\BlogApp.Entity\\BlogApp.Entity.csproj"
               }
             }
           }
@@ -215,7 +215,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
